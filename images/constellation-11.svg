@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101.989" height="97.643" viewBox="0 0 101.989 97.643">
+  <g id="Group_2041" data-name="Group 2041" transform="translate(-592.521 -1092.858)">
+    <g id="Ellipse_83" data-name="Ellipse 83" transform="translate(659.149 1125.323) rotate(130)" fill="#d9dfe350" stroke="#d9dfe350" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+    <line id="Line_127" data-name="Line 127" x1="54" y1="24" transform="translate(600.773 1101.417)" fill="none" stroke="#d9dfe450" stroke-width="1"/>
+    <line id="Line_128" data-name="Line 128" x2="34" y2="34" transform="translate(654.773 1125.417)" fill="none" stroke="#d9dfe450" stroke-width="1"/>
+    <g id="Ellipse_82" data-name="Ellipse 82" transform="translate(609.427 1100.571) rotate(130)" fill="#d9dfe350" stroke="#d9dfe350" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_84" data-name="Ellipse 84" transform="translate(665.735 1184.372) rotate(130)" fill="#d9dfe350" stroke="#d9dfe350" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <g id="Ellipse_85" data-name="Ellipse 85" transform="translate(694.51 1158.606) rotate(130)" fill="#d9dfe350" stroke="#d9dfe350" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <line id="Line_129" data-name="Line 129" x2="5" y2="59" transform="translate(654.773 1125.417)" fill="none" stroke="#d9dfe450" stroke-width="1"/>
+    <line id="Line_130" data-name="Line 130" y1="25" x2="29" transform="translate(659.773 1159.417)" fill="none" stroke="#d9dfe350" stroke-width="1"/>
+  </g>
+</svg>

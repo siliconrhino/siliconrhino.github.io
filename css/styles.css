@@ -1,0 +1,132 @@
+.body {
+  background-color: #091329;
+  color: white;
+  background-image: url("../images/constellation-11.svg"),
+    url("../images/constellation-07.svg"), url("../images/constellation-09.svg"),
+    url("../images/constellation-01.svg"), url("../images/constellation-02.svg");
+  background-position: left, center, right;
+  background-position-x: 50vw, 60vw, 85vw, 8vw, 65vw;
+  background-position-y: 130vh, 5vh, 25vh, 80vh, 100vh;
+  background-repeat: no-repeat;
+
+  padding: 32px;
+  font-family: Poppins;
+}
+
+.logo {
+  width: 200px;
+}
+.heading {
+  padding: 100px 170px 0;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  max-width: 100%;
+  padding: 50px 150px 100px;
+}
+.container > a {
+  font-size: 30px;
+  text-align: center;
+  margin: 20px;
+}
+.container > a:hover {
+  transform: scale(1.05, 1.05);
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
+.team {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+}
+.team-names {
+  background-color: #09132950;
+  position: relative;
+  margin-top: -90px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  height: 80px;
+  justify-content: center;
+  padding: 0 10px;
+}
+
+.names {
+  font-size: 22px;
+}
+.title {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 1500px) {
+  .team-names {
+    margin-top: -132px;
+    height: 120px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 100%;
+    padding: 0 150px 100px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 100%;
+    padding: 0 100px 100px;
+  }
+  .heading {
+    padding: 50px 120px 0;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .body {
+    background-size: 30px, 20px, 40px, 40px;
+    padding: 10px;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    max-width: 100%;
+    padding: 10px;
+  }
+  .team-names {
+    margin-top: -57px;
+    height: 45px;
+  }
+  h1 {
+    font-size: 24px;
+    font-weight: 700;
+  }
+  h2 {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .heading {
+    padding: 50px 30px 0;
+  }
+  .names {
+    font-size: 14px;
+  }
+  .title {
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .team {
+    height: 250px;
+  }
+  .logo {
+    width: 175px;
+  }
+}
